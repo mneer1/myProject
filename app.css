@@ -1,3 +1,23 @@
+body{
+    border: 3px solid whitesmoke;
+    font-family: Arial, sans-serif;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    font-size: 22px;
+    line-height: 1.5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 p{
-    color: rosybrown;
+    color: rgba(125, 196, 255, 0.473);
+    font-size: 1.80dvw;
+    font-style: italic;
+text-align: center;
+}
+
+h1{
+    color: white;
+    font-size: 2.50dvw;
+    text-align: center;
 }
