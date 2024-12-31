@@ -3,3 +3,8 @@
   flex-direction: row;
   justify-content: space-between;
 }       
+path {
+  fill: none;
+  stroke: gray;
+  stroke-width: 1.8px;
+}
